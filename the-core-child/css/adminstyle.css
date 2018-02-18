@@ -1,0 +1,13 @@
+/* CMA : logos pour l'admin de Woocommerce dans la liste des commmandes
+ *
+ */
+
+a.awaiting-shipment:after {
+    font-family: Dashicons;
+    content: '\f312';
+}
+
+a.shipped:after {
+    font-family: Dashicons;
+    content: '\f529';
+}
